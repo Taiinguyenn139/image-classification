@@ -1,4 +1,4 @@
-# TODO LIST
+# -TODO LIST
 
 ### Todo
 - [x] Construct project structure
@@ -13,10 +13,12 @@
   - [ ] Drop-out
   - [ ] Batch-norm
   - [ ] Weight initialize
+  - [ ] Augmentation
   - [ ] Optimizer
   - [ ] Batch-size
   - [ ] RNN
   - [ ] LSTM
+- [ ] Image Segmentation
 - [ ] Quantize model
 - [ ] Distill Model
 - [ ] Neural Architect Search

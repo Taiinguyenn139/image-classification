@@ -2,6 +2,7 @@
 
 ### Todo
 - [x] Construct project structure
+- [x] Metadata prepare
 - [ ] Image classification
   - [ ] Model construct
   - [ ] Data Pipeline
@@ -28,3 +29,4 @@
 
 ### Done
 - [x] Construct project structure
+- [x] Metadata prepare

@@ -1,0 +1,4 @@
+defaults:
+  - db: dataloader
+  - md: model
+  - tr: train

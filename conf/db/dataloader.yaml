@@ -1,0 +1,7 @@
+batch_size: 32
+shuffle: True
+pre_path: dataloader/data/CUB_200_2011/images 
+train_path: dataloader/data/train.csv
+test_path: dataloader/data/test.csv
+width: 320
+height: 320

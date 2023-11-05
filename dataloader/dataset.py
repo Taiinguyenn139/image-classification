@@ -6,6 +6,10 @@ import torch
 
 from torch.utils.data import Dataset
 
+def custom_collate_fn(batch):
+    print(type(batch))
+    print(len(batch))
+
 class CLS_Dataset(Dataset):
     def __init__(self, data_path, pre_path, transform):
         super(CLS_Dataset).__init__()

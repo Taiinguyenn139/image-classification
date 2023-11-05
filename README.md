@@ -10,7 +10,7 @@ Data: CUB-200-2011
 - [x] Metadata prepare
 - [ ] Image classification
   - [ ] Model construct
-  - [ ] Data Pipeline
+  - [x] Data Pipeline
   - [ ] Train pipeline
   - [ ] Tensorboard with pytorch and profiler
 - [ ] Experiment
@@ -35,3 +35,4 @@ Data: CUB-200-2011
 ### Done
 - [x] Construct project structure
 - [x] Metadata prepare
+- [x] Data pipeline

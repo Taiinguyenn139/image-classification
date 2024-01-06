@@ -24,6 +24,7 @@ Data: CUB-200-2011
   - [ ] Batch-size
   - [ ] RNN
   - [ ] LSTM
+  - [ ] Re-weighted gradient descent via distributionally robust optimization
 - [ ] Image Segmentation
 - [ ] Quantize model
 - [ ] Distill Model
